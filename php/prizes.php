@@ -1,0 +1,1 @@
+<img src="images/prizes.png" />
